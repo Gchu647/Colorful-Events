@@ -1,1 +1,19 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#button {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 50px;
+    background-color: whitesmoke;
+    color: slateblue;
+    margin-top: 100px;
+}
 
